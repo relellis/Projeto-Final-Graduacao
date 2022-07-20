@@ -7,6 +7,8 @@ However, this proposal still finds some relevant points that should be considere
 
 Here you will find 2 Notebooks that I've wrote with the intention of understanding how entropy can optimize the learning process of a federated machine learning model.
 
+The model created was trained with the Emnist dataset
+
 ## PFG-Estudo-de-caso-Entropia-I
 This Notebook was create with de objective to understand the Tensorflow Federated library. So part of the code was based on the Tutorial Code https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification
 
